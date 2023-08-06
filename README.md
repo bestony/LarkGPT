@@ -4,6 +4,8 @@
 
 LarkGPT is a easy to use, easy to deploy Larksuite OpenAI ChatGPT Bot Script. **You can deploy it into your Larksuite Company in 5 minutes!**
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/srSnUC8sioY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Features
 - Full guide for deploy (Text & Video)
 - Support ChatGPT Model 3.5
@@ -18,5 +20,7 @@ LarkGPT is a easy to use, easy to deploy Larksuite OpenAI ChatGPT Bot Script. **
 
 ## Guide
 - Text Guide in [TextGuide.md](TextGuide.md)
+- Video Guide in [Youtube](https://www.youtube.com/watch?v=srSnUC8sioY)
+- 
 ## License
 [GPLv3](LICENSE)
