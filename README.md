@@ -22,7 +22,7 @@ LarkGPT is a easy to use, easy to deploy Larksuite OpenAI ChatGPT Bot Script. **
 <img width="1699" alt="use LarkGPT in ChatGroup" src="https://github.com/bestony/LarkGPT/assets/13283837/f77368e7-188e-4767-9d3d-251aa412056d">
 
 ## Guide
-- Text Guide in [TextGuide.md](TextGuide.md)[Chinese Version 中文版本](TextGuide.zh.md)
+- Text Guide in [TextGuide.md](TextGuide.md)|[Chinese Version 中文版本](TextGuide.zh.md)
 - Video Guide in [Youtube](https://www.youtube.com/watch?v=srSnUC8sioY)
 
 ## License
